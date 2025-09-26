@@ -43,7 +43,7 @@ const App = () => {
             onChange ={(f) => setsearchTerm(f.target.value)}
             />
             <img
-            src='icon.jpg'
+            src="https://cdn.jsdelivr.net/gh/tabler/tabler-icons/icons/search.svg"
             alt =  'search'
             onClick ={() => searchMovies(searchTerm)}
             />
