@@ -3,8 +3,6 @@ import { useEffect, useState }  from 'react';
 import MovieCard from './MovieCard';
 
 import Lice from './Lice.css';
-//import searchIcon from './search.svg'
-// 7ee9d6f6
 
 const API_URL ='https://www.omdbapi.com?apikey=7ee9d6f6'
 const movie = {
