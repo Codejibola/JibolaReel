@@ -32,7 +32,7 @@ const App = () => {
 
     return(
     <div className='app'>
-            <h1>JibolaReel</h1>
+            <h1>MovieReel</h1>
 
         <div className='search'>
             <input
